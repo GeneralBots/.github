@@ -4,22 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/generalbots/generalbots">
-    <img src="https://img.shields.io/badge/rust-1.85+-orange.svg?logo=rust" alt="Rust" />
-  </a>
-  <a href="https://github.com/generalbots/generalbots/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/generalbots/generalbots/ci.yml?branch=main" alt="CI" />
-  </a>
-  <a href="https://github.com/generalbots/generalbots/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-AGPL--3.0-blue.svg" alt="License" />
-  </a>
-  <a href="https://github.com/generalbots/generalbots">
-    <img src="https://img.shields.io/github/repo-size/generalbots/generalbots" alt="Repo" />
-  </a>
+  <code>Rust 1.85+</code>
+  <code>AGPL-3.0</code>
+  <code>100+ crates</code>
+  <code>Monorepo</code>
   <br />
   <strong>Enterprise-Grade LLM Orchestrator &amp; AI Automation Platform</strong>
   <br />
-  100+ Rust crates · Monorepo · Convention over Configuration
+  Convention over Configuration · Code-less approach
 </p>
 
 ---
