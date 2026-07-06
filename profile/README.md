@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <code>Rust 1.85+</code>
+  <code>Rust 1.96+</code>
   <code>AGPL-3.0</code>
   <code>398k LOC</code>
   <code>100+ crates</code>
